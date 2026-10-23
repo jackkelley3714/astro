@@ -11,7 +11,7 @@ AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full
 
 The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
 
-## Features
+## Features11
 
 AstroPaper comes with a set of useful features that make content publishing easy and effective:
 
