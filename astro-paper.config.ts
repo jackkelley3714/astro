@@ -26,7 +26,6 @@ export default defineAstroPaperConfig({
     showBackButton: true,
     editPost: {
       enabled: false,
-      url: "https://github.com/jackkelley3714/astro/edit/main/",
     },
     search: "pagefind",
   },
