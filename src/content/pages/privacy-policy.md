@@ -3,7 +3,7 @@ title: "Privacy Policy"
 description: "How this site handles visitor information and privacy."
 ---
 
-This Privacy Policy explains how Arturo Bauch ("we", "us", or "the site"), available at [[https://arturobauch.pages.dev/](https://arturobauch.pages.dev/), handles information when you visit.
+This Privacy Policy explains how Arturo Bauch ("we", "us", or "the site"), available at [https://arturobauch.pages.dev/](https://arturobauch.pages.dev/), handles information when you visit.
 
 ## Information We Collect
 
