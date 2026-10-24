@@ -2,7 +2,7 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://astro-bf5.pages.dev/",
+    url: "https://arturobauch.pages.dev/",
     title: "Arturo Bauch",
     description: "A minimal, responsive and SEO-friendly Astro blog theme.",
     author: "Sat Naing",
