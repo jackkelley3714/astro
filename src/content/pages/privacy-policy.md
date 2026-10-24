@@ -1,8 +1,7 @@
 ---
 title: "Privacy Policy"
+description: "How this site handles visitor information and privacy."
 ---
-
-_Last updated: October 24, 2026_
 
 This Privacy Policy explains how Arturo Bauch ("we", "us", or "the site"), available at [[https://arturobauch.pages.dev/](https://arturobauch.pages.dev/), handles information when you visit.
 
