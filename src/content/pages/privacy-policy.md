@@ -42,4 +42,4 @@ We may update this policy from time to time. Changes take effect when they are p
 
 ## Contact
 
-If you have questions about this policy, contact us at **[你的邮箱]**.
+If you have questions about this policy, contact us at mirelatisba775@gmail.com.
