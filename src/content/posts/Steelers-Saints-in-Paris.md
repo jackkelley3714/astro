@@ -12,7 +12,7 @@ featured: true
 
 The NFL spent years planning its first regular-season game in France. The Pittsburgh Steelers and New Orleans Saints kick off Sunday at Stade de France, 9:30 a.m. ET. The game is still on. Nearly everything around it is not.
 
-![Stade de France exterior](/images/stade-de-france.jpg)
+![Stade de France exterior](/stade-de-france.png)
 *Photo: PHOTOGRAPHER NAME, LICENSE, via [Wikimedia Commons](FILE_PAGE_URL)*
 
 ## The Fan Experience, Now Featuring Fewer Fan Experiences
