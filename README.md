@@ -162,5 +162,6 @@ If you have any suggestions/feedback, you can contact me via [my email](mailto:s
 Licensed under the MIT License, Copyright © 2026
 
 ---
+[Cheap NFL Jerseys](https://ujerseyy.com/)
 
 Made with 🤍 by [Sat Naing](https://satnaing.dev) 👨🏻‍💻 and [contributors](https://github.com/satnaing/astro-paper/graphs/contributors).
